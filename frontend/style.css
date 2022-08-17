@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f7e4d4;
+}
+
+h1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 46px;
+    color: #467745;
+}
+
+input {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #467745;
+    max-width: 480px;
+    height: 64px;
+    margin-bottom: 1rem;
+    border-style: none;
+}
+
+textarea {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #467745;
+    max-width: 480px;
+    height: 120px;
+    border-style: none;
+}
+
+.p1 {
+    font-family: 'Montserrat', sans-serif ;
+    font-size: 21px;
+}
+
+
+button {
+    font-family: 'EB Garamond', serif;
+    font-size: 21px;
+    max-width: 280px;
+    height: 80px;
+    background-color: #467745;
+    color: #f7e4d4;
+    border-radius: 25px;
+    border-style: none;
+    
+}
